@@ -6,7 +6,7 @@
 # catalog-version 1.3a
 Name:		texlive-turnthepage
 Version:	1.3a
-Release:	1
+Release:	2
 Summary:	Provide "turn page" instructions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/turnthepage
