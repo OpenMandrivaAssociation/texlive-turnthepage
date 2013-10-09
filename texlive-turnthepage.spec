@@ -1,12 +1,12 @@
-# revision 23784
+# revision 29803
 # category Package
 # catalog-ctan /macros/latex/contrib/turnthepage
-# catalog-date 2011-03-24 23:15:02 +0100
+# catalog-date 2012-08-19 17:38:37 +0200
 # catalog-license lppl
 # catalog-version 1.3a
 Name:		texlive-turnthepage
 Version:	1.3a
-Release:	2
+Release:	3
 Summary:	Provide "turn page" instructions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/turnthepage
@@ -52,16 +52,3 @@ for examination papers and the like.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3a-2
-+ Revision: 757159
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3a-1
-+ Revision: 719818
-- texlive-turnthepage
-- texlive-turnthepage
-- texlive-turnthepage
-
