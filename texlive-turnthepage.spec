@@ -3,7 +3,7 @@ Version:	29803
 Release:	2
 Summary:	Provide "turn page" instructions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/turnthepage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/turnthepage
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/turnthepage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/turnthepage.doc.r%{version}.tar.xz
